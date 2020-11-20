@@ -14,3 +14,9 @@ An app that takes a list of non-negative integers and orders them so that they f
 
 ###### sum_of_nums.pl
 Calculate the sum of numbers in three ways: For, While, Recursion
+
+###### watermark.pm
+PDF::API2. Paste TEST or other watermark on PDF diagonally
+
+###### DBI.pl
+Execute quick MYSQL request with Perl
