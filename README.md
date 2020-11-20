@@ -1,5 +1,8 @@
 #### My various early perl train tasks
 
+###### DBI.pl
+Execute quick MYSQL request with Perl
+
 ###### fibo.pl
 Display fibonacci numbers from 0 to N.
 
@@ -17,6 +20,3 @@ Calculate the sum of numbers in three ways: For, While, Recursion
 
 ###### watermark.pm
 PDF::API2. Paste TEST or other watermark on PDF diagonally
-
-###### DBI.pl
-Execute quick MYSQL request with Perl
