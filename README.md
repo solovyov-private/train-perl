@@ -1,4 +1,4 @@
-## My various early perl train tasks
+## My various early Perl train tasks
 
 #### [DBI.pl](DBI.pl)
 Execute quick MYSQL request with Perl
