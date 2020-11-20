@@ -14,7 +14,7 @@ An app that concatenates two lists by alternating elements. Example: for two lis
 
 ###### max_available_num.pl
 An app that takes a list of non-negative integers and orders them so that they form the largest number. For example, [50, 2, 1, 9], the largest possible number is 95021.
-Or [5, 51, 58] - 58551 ;)
+Or [5, 51, 58] - 58551 😊
 
 ###### sum_of_nums.pl
 Calculate the sum of numbers in three ways: For, While, Recursion
